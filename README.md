@@ -6,15 +6,15 @@ I build tools that make AI workflows easier to inspect and give people a clear p
 
 ## Selected projects
 
-### [Neural Ant](https://github.com/joshuaadmissions-web/neural-ant)
+### [Neural Ant](https://github.com/bezabyte/neural-ant)
 
 Find roles that match your resume, see why they rank, and prepare application drafts you can review before submitting. **Python · Node.js**
 
-### [AgentForge Workspace](https://github.com/joshuaadmissions-web/agentforge-workspace)
+### [AgentForge Workspace](https://github.com/bezabyte/agentforge-workspace)
 
 Design and run agent workflows on a visual canvas. Inspect each agent’s status and latency, then generate Docker and Kubernetes deployment files from the same graph. **TypeScript · Next.js**
 
-### [Lucid Diagram Agent](https://github.com/joshuaadmissions-web/Lucid-Diagram-AI-Agent)
+### [Lucid Diagram Agent](https://github.com/bezabyte/Lucid-Diagram-AI-Agent)
 
 Analyze a GitHub repository and generate architecture, dependency, and component diagrams for import into Lucidchart. Available as a CLI and an MCP server. **JavaScript · MCP**
 
